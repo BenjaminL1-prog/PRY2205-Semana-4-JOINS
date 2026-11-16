@@ -93,4 +93,4 @@ Los cálculos de antigüedad utilizan la fecha del sistema, por lo que pueden va
 
 ---
 
-**Proyecto académico desarrollado para DUOC UC – 2026.**
+**Benjamín Lizama- consulta de bases de datos- DUOC UC – 2026.**
